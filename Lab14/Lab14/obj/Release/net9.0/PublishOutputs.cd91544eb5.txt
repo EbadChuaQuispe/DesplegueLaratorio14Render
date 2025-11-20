@@ -1,0 +1,7 @@
+C:\Users\Tecsup\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\Lab14.exe
+C:\Users\Tecsup\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\Tecsup\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\appsettings.json
+C:\Users\Tecsup\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\Lab14.dll
+C:\Users\Tecsup\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\Lab14.deps.json
+C:\Users\Tecsup\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\Lab14.runtimeconfig.json
+C:\Users\Tecsup\RiderProjects\Lab14\Lab14\bin\Release\net9.0\publish\Lab14.pdb
