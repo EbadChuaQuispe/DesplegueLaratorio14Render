@@ -1,0 +1,7 @@
+C:\Users\Tecsup\RiderProjects\Lab14\output\Lab14.exe
+C:\Users\Tecsup\RiderProjects\Lab14\output\appsettings.Development.json
+C:\Users\Tecsup\RiderProjects\Lab14\output\appsettings.json
+C:\Users\Tecsup\RiderProjects\Lab14\output\Lab14.dll
+C:\Users\Tecsup\RiderProjects\Lab14\output\Lab14.deps.json
+C:\Users\Tecsup\RiderProjects\Lab14\output\Lab14.runtimeconfig.json
+C:\Users\Tecsup\RiderProjects\Lab14\output\Lab14.pdb

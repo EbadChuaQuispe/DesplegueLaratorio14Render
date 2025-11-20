@@ -94,3 +94,4 @@ C:\Users\Tecsup\RiderProjects\Lab14\Lab14\obj\Release\net9.0\refint\Lab14.dll
 C:\Users\Tecsup\RiderProjects\Lab14\Lab14\obj\Release\net9.0\Lab14.pdb
 C:\Users\Tecsup\RiderProjects\Lab14\Lab14\obj\Release\net9.0\Lab14.genruntimeconfig.cache
 C:\Users\Tecsup\RiderProjects\Lab14\Lab14\obj\Release\net9.0\ref\Lab14.dll
+C:\Users\Tecsup\RiderProjects\Lab14\Lab14\obj\Release\net9.0\Lab14.sourcelink.json
