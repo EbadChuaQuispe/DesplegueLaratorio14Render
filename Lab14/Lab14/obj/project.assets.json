@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tecsup\\.nuget\\packages\\": {}
+    "C:\\Users\\elrey\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tecsup\\RiderProjects\\Lab14\\Lab14\\Lab14.csproj",
+      "projectUniqueName": "D:\\RiderProyectos\\Desplegue-Render\\DesplegueLaratorio14Render\\Lab14\\Lab14\\Lab14.csproj",
       "projectName": "Lab14",
-      "projectPath": "C:\\Users\\Tecsup\\RiderProjects\\Lab14\\Lab14\\Lab14.csproj",
-      "packagesPath": "C:\\Users\\Tecsup\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tecsup\\RiderProjects\\Lab14\\Lab14\\obj\\",
+      "projectPath": "D:\\RiderProyectos\\Desplegue-Render\\DesplegueLaratorio14Render\\Lab14\\Lab14\\Lab14.csproj",
+      "packagesPath": "C:\\Users\\elrey\\.nuget\\packages\\",
+      "outputPath": "D:\\RiderProyectos\\Desplegue-Render\\DesplegueLaratorio14Render\\Lab14\\Lab14\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tecsup\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\elrey\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
