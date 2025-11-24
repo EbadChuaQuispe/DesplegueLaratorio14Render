@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "i/Z1KgdJfeg=",
+  "dgSpecHash": "1KFq5AeKxQE=",
   "success": true,
   "projectFilePath": "D:\\RiderProyectos\\Desplegue-Render\\DesplegueLaratorio14Render\\Lab14\\Lab14\\Lab14.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\elrey\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\elrey\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\elrey\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\elrey\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
